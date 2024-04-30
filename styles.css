@@ -43,6 +43,6 @@ body {
 }
 .deve{
     position: absolute;
-    top: 630px;
+    bottom: 800px;
     font-family: sans-serif;
 }
